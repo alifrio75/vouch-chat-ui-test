@@ -1,0 +1,384 @@
+{
+    "response": [
+        {
+            "input" : "housekeeping",
+            "response" : [
+                {
+                    "block" : [
+                        {
+                            "user" : false,
+                            "header": null,
+                            "title": null,
+                            "body": "Hello there, its nice to hear from you! I'm Mika, your digital concierge at Pan Pacific Singapore.",
+                            "link": null
+                        }
+                    ],
+                    "timestamp" : null
+                },
+                {
+                    "block" : [
+                        {
+                            "user" : false,
+                            "header": null,
+                            "title": null,
+                            "body": "Ready to discover the secrets to a wondrous gateway? I can help you with your questions about the hotel, your stay request as well as travel information. Go ahead and ask away.",
+                            "link": null
+                        }
+                    ],
+                    "timestamp" : null
+                },
+                {
+                    "block" : [
+                        {
+                            "user" : false,
+                            "header": null,
+                            "title": null,
+                            "body": "Would you like to connect with us on Facebook? You will be able to get notification and updates on your stay request once connected!",
+                            "link": [
+                                {
+                                    "text": "Facebook",
+                                    "target": "#"
+                                }
+                            ]
+                        }
+                    ],
+                    "timestamp" : null
+                },
+                {
+                    "block" : [
+                        {
+                            "user" : false,
+                            "header": null,
+                            "title": null,
+                            "body": "Would you like to connect with us on Facebook? You will be able to get notification and updates on your stay request once connected!",
+                            "link": [
+                                {
+                                    "text": "Facebook",
+                                    "target": "#"
+                                },
+                                {
+                                    "text": "Facebook",
+                                    "target": "#"
+                                },
+                                {
+                                    "text": "Facebook",
+                                    "target": "#"
+                                }
+                            ]
+                        }
+                    ],
+                    "timestamp" : null
+                },
+                {
+                    "block" : [
+                        {
+                            "user" : false,
+                            "header": "placeholder",
+                            "title": "Dining",
+                            "body": "Emberk on diverse culinary journey with our award-winning restaurant!",
+                            "link": [
+                                {
+                                    "text": "View Restaurant",
+                                    "target": "#"
+                                },
+                                {
+                                    "text": "Offers & Promotions",
+                                    "target": "#"
+                                },
+                                {
+                                    "text": "Dining Programme",
+                                    "target": "#"
+                                }
+                            ]
+                        },
+                        {
+                            "user" : false,
+                            "header": "placeholder",
+                            "title": "Dining",
+                            "body": "Emberk on diverse culinary journey with our award-winning restaurant!",
+                            "link": [
+                                {
+                                    "text": "View Restaurant",
+                                    "target": "#"
+                                },
+                                {
+                                    "text": "Offers & Promotions",
+                                    "target": "#"
+                                },
+                                {
+                                    "text": "Dining Programme",
+                                    "target": "#"
+                                }
+                            ]
+                        },
+                        {
+                            "user" : false,
+                            "header": "placeholder",
+                            "title": "Dining",
+                            "body": "Emberk on diverse culinary journey with our award-winning restaurant!",
+                            "link": [
+                                {
+                                    "text": "View Restaurant",
+                                    "target": "#"
+                                },
+                                {
+                                    "text": "Offers & Promotions",
+                                    "target": "#"
+                                },
+                                {
+                                    "text": "Dining Programme",
+                                    "target": "#"
+                                }
+                            ]
+                        }
+                    ],
+                    "timestamp" : null
+                }
+            ]
+        },
+        {
+            "input": "inroomservice",
+            "response" : [
+                {
+                    "block" : [
+                        {
+                            "user" : false,
+                            "header": null,
+                            "title": null,
+                            "body": "Hello guest, you need help on Room Service?",
+                            "link": []
+                        }
+                    ],
+                    "timestamp" : null
+                },
+                {
+                    "block" : [
+                        {
+                            "user" : false,
+                            "header": "placeholder",
+                            "title": "In-room service",
+                            "body": "Tell me how we can help you.",
+                            "link": [
+                                {
+                                    "text": "Dining",
+                                    "target": "#"
+                                },
+                                {
+                                    "text": "Massage",
+                                    "target": "#"
+                                }
+                            ]
+                        }
+                    ],
+                    "timestamp" : null
+                }
+            ]
+        },
+        {
+            "input": "dining",
+            "response" : [
+                {
+                    "block" : [
+                        {
+                            "user" : false,
+                            "header": null,
+                            "title": null,
+                            "body": "Hello guest, We're here to give you the best dining experience possible. Let us know how we're doing, and how we can better serve you!",
+                            "link": []
+                        }
+                    ],
+                    "timestamp" : null
+                },
+                {
+                    "block" : [
+                        {
+                            "user" : false,
+                            "header": "placeholder",
+                            "title": "Dining",
+                            "body": "Emberk on diverse culinary journey with our award-winning restaurant!",
+                            "link": [
+                                {
+                                    "text": "View Restaurant",
+                                    "target": "#"
+                                },
+                                {
+                                    "text": "Offers & Promotions",
+                                    "target": "#"
+                                },
+                                {
+                                    "text": "Dining Programme",
+                                    "target": "#"
+                                }
+                            ]
+                        },
+                        {
+                            "user" : false,
+                            "header": "placeholder",
+                            "title": "Dining",
+                            "body": "Emberk on diverse culinary journey with our award-winning restaurant!",
+                            "link": [
+                                {
+                                    "text": "View Restaurant",
+                                    "target": "#"
+                                },
+                                {
+                                    "text": "Offers & Promotions",
+                                    "target": "#"
+                                },
+                                {
+                                    "text": "Dining Programme",
+                                    "target": "#"
+                                }
+                            ]
+                        },
+                        {
+                            "user" : false,
+                            "header": "placeholder",
+                            "title": "Dining",
+                            "body": "Emberk on diverse culinary journey with our award-winning restaurant!",
+                            "link": [
+                                {
+                                    "text": "View Restaurant",
+                                    "target": "#"
+                                },
+                                {
+                                    "text": "Offers & Promotions",
+                                    "target": "#"
+                                },
+                                {
+                                    "text": "Dining Programme",
+                                    "target": "#"
+                                }
+                            ]
+                        }
+                    ],
+                    "timestamp" : null
+                }
+            ]
+        },
+        {
+            "input": "facilities",
+            "response" : [
+                {
+                    "block" : [
+                        {
+                            "user" : false,
+                            "header": null,
+                            "title": null,
+                            "body": "Hello guest, We're here to give you the best experience possible. Let us know how we're doing, and please take a look on our hotel facilities",
+                            "link": []
+                        }
+                    ],
+                    "timestamp" : null
+                },
+                {
+                    "block" : [
+                        {
+                            "user" : false,
+                            "header": "placeholder",
+                            "title": "Restaurant",
+                            "body": "Emberk on diverse culinary journey with our award-winning restaurant!",
+                            "link": [
+                                {
+                                    "text": "View Restaurant",
+                                    "target": "#"
+                                },
+                                {
+                                    "text": "Offers & Promotions",
+                                    "target": "#"
+                                },
+                                {
+                                    "text": "Dining Programme",
+                                    "target": "#"
+                                }
+                            ]
+                        },
+                        {
+                            "user" : false,
+                            "header": "placeholder",
+                            "title": "Restaurant",
+                            "body": "Emberk on diverse culinary journey with our award-winning restaurant!",
+                            "link": [
+                                {
+                                    "text": "View Restaurant",
+                                    "target": "#"
+                                },
+                                {
+                                    "text": "Offers & Promotions",
+                                    "target": "#"
+                                },
+                                {
+                                    "text": "Dining Programme",
+                                    "target": "#"
+                                }
+                            ]
+                        },
+                        {
+                            "user" : false,
+                            "header": "placeholder",
+                            "title": "Restaurant",
+                            "body": "Emberk on diverse culinary journey with our award-winning restaurant!",
+                            "link": [
+                                {
+                                    "text": "View Restaurant",
+                                    "target": "#"
+                                },
+                                {
+                                    "text": "Offers & Promotions",
+                                    "target": "#"
+                                },
+                                {
+                                    "text": "Dining Programme",
+                                    "target": "#"
+                                }
+                            ]
+                        }
+                    ],
+                    "timestamp" : null
+                }
+            ]
+        },
+        {
+            "input": "taxibooking",
+            "response" : [
+                {
+                    "block" : [
+                        {
+                            "user" : false,
+                            "header": null,
+                            "title": null,
+                            "body": "Hello guest, you need help on Taxi Booking?",
+                            "link": []
+                        }
+                    ],
+                    "timestamp" : null
+                },
+                {
+                    "block" : [
+                        {
+                            "user" : false,
+                            "header": "placeholder",
+                            "title": "Book a taxi",
+                            "body": "Here some of our driver contact.",
+                            "link": [
+                                {
+                                    "text": "Alex",
+                                    "target": "#"
+                                },
+                                {
+                                    "text": "Parker",
+                                    "target": "#"
+                                },
+                                {
+                                    "text": "John Doe",
+                                    "target": "#"
+                                }
+                            ]
+                        }
+                    ],
+                    "timestamp" : null
+                }
+            ]
+        }
+    ]
+}
