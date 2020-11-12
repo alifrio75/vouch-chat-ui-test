@@ -134,6 +134,10 @@ export default {
 .bottom-bar .v-slide-group__content.v-tabs-bar__content {
     width: 100%;
 }
+.bottom-bar .v-tab {
+    min-width: unset!important;
+    padding: 0!important;
+}
 .bottom-bar .v-slide-group__content.v-tabs-bar__content > .v-tab[role=tab] {
     flex: 1;
 }
